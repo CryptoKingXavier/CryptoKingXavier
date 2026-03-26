@@ -23,6 +23,7 @@ This folder serves as:
 | Data Analytics Bootcamp | Alex The Analyst | Data Analysis |
 | Microsoft Excel Course | Talent Edge Foundation | Data Handling |
 | NFT Certification | Blueprint Mastery Academy | Blockchain |
+| Goi Peace Certification | Goi Peace Foundation | Peace Prize |
 
 ---
 
@@ -31,21 +32,28 @@ This folder serves as:
 ### 📊 Data Analytics Bootcamp  
 **Issuer:** Alex The Analyst  
 
-<img src="./data-analytics-certificate.jpg" width="600"/>
+<img src="./data-analytics-certificate.png" width="600"/>
 
 ---
 
 ### 📈 Microsoft Excel Certification  
 **Issuer:** Talent Edge Foundation  
 
-<img src="./excel-certification.jpg" width="600"/>
+<img src="./excel-certification.png" width="600"/>
 
 ---
 
 ### ⛓ NFT Certification  
 **Issuer:** Blueprint Mastery Academy  
 
-<img src="./nft-certification.jpg" width="600"/>
+<img src="./nft-certification.png" width="600"/>
+
+---
+
+### ⛓ Goi Peace Certification
+**Issuer:** Goi Peace Foundation 
+
+<img src="./goi-peace-certification.png" width="600"/>
 
 ---
 
