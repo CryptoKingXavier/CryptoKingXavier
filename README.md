@@ -50,20 +50,32 @@ From writing low-level networking scripts to architecting full-stack web applica
 - React.js  
 - Next.js  
 - Tailwind CSS  
-- Bootstrap  
+- Bootstrap 
 
 ### ⚙️ Backend
-- Python (Flask)  
+- Python (Flask)
+- Python (FastAPI)
+- FastMCP
 - Node.js  
 
 ### 🗄️ Database
-- PostgreSQL  
+- PSQL
+- MSQL
+- SQLite
+- SQLAlchemy
 - MongoDB  
 
 ### 🔧 Tools & Technologies
 - Git & GitHub  
 - Docker  
-- Vercel  
+- Vercel
+- Netlify
+- Render
+- CRON Jobs
+- Alpic
+- Mistral
+- Northflank
+- MCP  
 - REST APIs  
 - CLI Development  
 
