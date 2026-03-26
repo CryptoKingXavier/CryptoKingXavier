@@ -132,9 +132,21 @@ From writing low-level networking scripts to architecting full-stack web applica
 
 ## 📜 Certifications
 
-- 📊 Data Analytics Bootcamp  
-- 📈 Microsoft Excel Certification  
-- ⛓ NFT Certification  
+<p align="center">
+  <a href="./certifications/README.md">
+    <img src="https://img.shields.io/badge/View%20Certifications-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="./AzunobiCalebJResume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
 ---
 
