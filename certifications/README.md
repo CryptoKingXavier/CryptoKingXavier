@@ -25,6 +25,8 @@ This folder serves as:
 | NFT Certification | Blueprint Mastery Academy | Blockchain |
 | Goi Peace Certification | Goi Peace Foundation | Peace Prize |
 
+[OpenSea NFT Certification] (https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/68044629474700639261044144002208102425530955048410513638601396881392240951297)
+
 ---
 
 ## 📜 Certificates
