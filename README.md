@@ -20,6 +20,8 @@ From writing low-level networking scripts to architecting full-stack web applica
 
 💡 I don’t just write code — I engineer solutions.
 
+🔗 https://CryptoKingXavier.github.io
+
 ---
 
 ## 🚀 What I Do
@@ -102,8 +104,6 @@ From writing low-level networking scripts to architecting full-stack web applica
 ### 🔹 Python Networking Projects
 - Built TCP Chat Rooms, DDOS Scripts, and Networking Tools  
 - Focused on low-level system communication and performance  
-
-🔗 https://CryptoKingXavier.github.io
 
 ---
 
